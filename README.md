@@ -279,4 +279,4 @@ Requisitos do Código:
 
     O artigo deve explicar como os parâmetros da pneumonia bacteriana/viral foram integrados ao código.
 
-Entrega: Disponibilize o código-fonte organizado para que eu possa fazer upload direto para um repositório GitHub e forneça o artigo em formato PDF para download."
+Entrega: Disponibilize o código-fonte organizado para que eu possa fazer upload direto para um repositório GitHub e forneça o artigo em formato PDF para download.
